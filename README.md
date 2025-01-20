@@ -23,8 +23,11 @@ Bienvenue sur **Easy-Python-Project** ! Ce dépôt GitHub est dédié exclusivem
 
 📁 **Projets Dans ce dossier**  
 🔹 Quizz Game- Petit jeu de culture générale
+
 🔹 Guess the number - Trouver le nombre de l'ordinateur a généré
+
 🔹 Jeu Pierre Papier Ciseaux - Jeu du pierre feuille ciseaux contre un ordinateur
+
 🔹 Login/Register - Simple application de login et de register
 
 
