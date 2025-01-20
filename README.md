@@ -41,8 +41,8 @@ Bienvenue sur **Easy-Python-Project** ! Ce dépôt GitHub est dédié exclusivem
 💡 **Vos suggestions sont les bienvenues !** Si vous avez des idées pour améliorer ces projets, n’hésitez pas à ouvrir une **issue** ou à proposer une **pull request**.  
 
 📫 Vous pouvez également me contacter via :  
-📧 **Email :** [Treshlol202.com](mailto:treshlol202@gmail.com)  
-📌 **LinkedIn :** [Votre Profil]([https://www.linkedin.com/in/votreprofil](https://www.linkedin.com/in/mehdi-dinari-b0487a2a9/)  
+📧 **Email :** [Treshlol202@gmail.com](mailto:treshlol202@gmail.com)  
+📌 **LinkedIn :** [Mehdi Dinari](https://www.linkedin.com/in/mehdi-dinari-b0487a2a9/)  
 
 ---
 
