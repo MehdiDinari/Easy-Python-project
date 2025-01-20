@@ -49,6 +49,7 @@ Bienvenue sur **Easy-Python-Project** ! Ce dépôt GitHub est dédié exclusivem
 ## 🛠️ Technologies utilisées  
 
 🐍 **Python**  
+🎮**Tkinter**
 ---
 
 
