@@ -1,2 +1,2 @@
 # Easy-Python-project
-as i as in my profile this is a another github only for python so i will reposting my old python project here
+"As mentioned in my profile, this GitHub repository is exclusively for Python projects. I will be migrating and reposting my previous Python projects here for better organization and easier access. My goal is to enhance and refine these projects, incorporating new features and improvements where necessary. I welcome any feedback or suggestions you may have to make these projects even better. Stay tuned for updates and feel free to explore the code!"
